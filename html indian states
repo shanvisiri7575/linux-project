@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="bg-cantainer">
+        <h1 class="main">INDIAN STATES </h1>
+        <div class="card-cantainer ">
+            <h1 class=" aa">Andhra pradesh </h1>
+            <div class="d-flex flex-row">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4cb7JNk43hudqXQJg5olia6iT4Md3VzyzQS8eJYGFY0sTzEA&s" class="image" />
+                <p class="bb">Andhra Pradesh is a state in the southern coastal region of India. It is the seventh-largest state with an area of 162,970 km² and tenth-most-populous state, with 49,577,103 inhabitants. It has shared borders with Telangana, Chhattisgarh, Odisha, Tamil Nadu, Karnataka, and the Bay of Bengal. </p>
+            </div>
+            <p class="cc">capital:Amaravathi </p>
+        </div>
+        <div class="card-cantainer ">
+            <h1 class="aa">Arunachal pradesh</h1>
+            <div class="d-flex flex-row">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzipgs12WogZh1YBb0AhJM1_FClUMQ1VTJAe0uL7ztBy39rf_9&s" class="image" />
+                <p class="bb">Arunachal Pradesh is an Indian state in the Northeast. It was formed from the erstwhile North-East Frontier Agency region, and became a state on 20 February 1987. Itanagar is the state capital and its largest town. It Arunachal Pradesh is the largest of the Seven Sister States of Northeast India by area.</p>
+            </div>
+            <h class="cc">capital:Itanagar</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Assam </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQKrOz09Idttrw93RtjgpsMWkzauII3D1wGFNePP1wuELyxTU&s" class="image" />
+                <p class="bb">Assam is a state in northeastern India known for its wildlife, archeological sites and tea plantations. In the west, Guwahati, Assam’s largest city, features silk bazaars and the hilltop Kamakhya Temple. Umananda Temple sits on Peacock Island in the Brahmaputra river. The state capital, Dispur, is a suburb of Guwahati. The ancient pilgrimage site of Hajo and Madan Kamdev, the ruins of a temple complex, lie nearby.</p>
+
+            </div>
+            <h class="cc">capital:Dispur</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Bihar </h1>
+            <div class="d-flex flex-row">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEw6Qqg35mrsdASDbtGLEYCqEpu84tcbQ8yd_2PzxFVeMjWV0&s" class="image" />
+
+
+                <p class="bb">Bihar is a state in East India, bordering Nepal. It is divided by the River Ganges, which floods its fertile plains. Important Buddhist pilgrimage sites include the Bodhi Tree in Bodhgaya's Mahabodhi Temple, under which the Buddha allegedly meditated. In the state capital Patna, Mahavir Mandir temple is revered by Hindus, while Sikhs worship at the domed, riverside Gurdwara of Takht Sri Harmandir Sahib Ji.</p>
+
+            </div>
+            <h class="cc">capital : patna</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">chhattisgarh </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0pQPnKvzPDa_MCGBNTa9Pyij8FpU1mKUoNRYmLaBMvf9tJoi&s" class="image" />
+                <p class="bb">hhattisgarh is a heavily forested state in central India known for its temples and waterfalls. Near the capital Raipur, the town of Sirpur on the Mahanadi River is home to the red-brick Lakshmana (Laxman) Temple, decorated with carvings from Indian mythology. In the south, the city of Jagdalpur hosts the Sanjay Market on Sundays, a bartering place for local tribes. The huge Chitrakoot Falls lie to the northwest.</p>
+
+            </div>
+            <h class="cc">capital :Raipur</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Goa </h1>
+            <div class="d-flex flex-row">
+
+                <img src=" https://upload.wikimedia.org/wikipedia/commons/3/32/Administrative_map_of_Goa.png" class="image" />
+
+
+
+
+
+
+                <p class="bb">Goa is a state in western India with coastlines stretching along the Arabian Sea. Its long history as a Portuguese colony prior to 1961 is evident in its preserved 17th-century churches and the area’s tropical spice plantations. Goa is also known for its beaches, ranging from popular stretches at Baga and Palolem to those in laid-back fishing villages such as Agonda.</p>
+
+            </div>
+            <h class="cc">capital:panaji</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Gujarat</h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/3/5/35e2415e6aa5837625ff68d871c6f309963c934aa48f4c618795fe6dd89ef3b5/gujarat-map-slide1.png" class="image" />
+
+
+
+
+
+
+                <p class="bb">Gujarat is a state along the western coast of India. Its coastline of about 1,600 km is the longest in the country, most of which lies on the Kathiawar peninsula. Gujarat is the fifth-largest Indian state by area, covering some 196,024 km²; and the ninth-most populous state, with a population of 60.4 million</p>
+
+            </div>
+            <h class="cc">capital:Gandhinagar</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Haryana </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://www.alightindia.com/cdn/uploads/postimages/ORIGINAL/hr1--71b8d1.png" class="image" />
+                <p class="bb">Haryana is a North Indian state surrounding New Delhi on 3 sides. The Yamuna River runs along its eastern border with Uttar Pradesh. Shared with Punjab, the state capital Chandigarh is known for its modernist buildings and gridlike street plan designed by Swiss architect, Le Corbusier. The Zakir Hussain Rose Garden features 1,600 species, while its Rock Garden showcases sculptures made with recycled materials.
+                </p>
+
+            </div>
+            <h class="cc">capital:chandigarh</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Himachal pradesh</h1>
+            <div class="d-flex flex-row">
+                <img src=" https://upload.wikimedia.org/wikipedia/commons/a/a4/Himachal_Pradesh_district_map.png" class="image" />
+
+
+
+
+
+
+                <p class="bb">Himachal Pradesh is a northern Indian state in the Himalayas. It's home to scenic mountain towns and resorts such as Dalhousie. Host to the Dalai Lama, Himachal Pradesh has a strong Tibetan presence. This is reflected in its Buddhist temples and monasteries, as well as its vibrant Tibetan New Year celebrations. The region is also well known for its trekking, climbing and skiing areas.</p>
+
+            </div>
+            <h class="cc">capital:Shimla</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">jharkhand </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/7/2/72dde93ceae3f73e133a62a6a13da81610d3c950633e7532cb12f701866f254c/jharkhand-map-slide2.png" class="image" />
+
+                <p class="bb">Jharkhand is a state in eastern India. It's known for its waterfalls, the elegant Jain temples of Parasnath Hill and the elephants and tigers of Betla National Park. The state capital of Ranchi is a gateway to the park. It features the 17th-century Jagannath Temple, a Hindu shrine and the Jharkhand War Memorial. Tagore Hill is a monument honoring Nobel Prize-winning author Rabindranath Tagore.</p>
+
+            </div>
+            <h class="cc">capital:Ranchi</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Karnataka </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/India_Karnataka_Divisions_map.png" class="image" />
+
+
+                <p class="bb">Karnataka is a state in southwest India with Arabian Sea coastlines. The capital, Bengaluru (formerly Bangalore), is a high-tech hub known for its shopping and nightlife. To the southwest, Mysore is home to lavish temples including Mysore Palace, former seat of the region’s maharajas. Hampi, once the medieval Vijayanagara empire’s capital, contains ruins of Hindu temples, elephant stables and a stone chariot.</p>
+
+            </div>
+            <h class="cc">capital:Bangalore</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Kerala </h1>
+            <div class="d-flex flex-row">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Topography_of_Kerala.png" class="image" />
+
+
+
+
+
+
+                <p class="bb">Kerala, a state on India's tropical Malabar Coast, has nearly 600km of Arabian Sea shoreline. It's known for its palm-lined beaches and backwaters, a network of canals. Inland are the Western Ghats, mountains whose slopes support tea, coffee and spice plantations as well as wildlife. National parks like Eravikulam and Periyar, plus Wayanad and other sanctuaries, are home to elephants, langur monkeys and tigers</p>
+
+            </div>
+            <h class="cc">capital:Thiruvananthapuram</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Madhya pradesh </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Madhya_Pradesh_district_map.svg" class="image" />
+                <p class="bb">Madhya Pradesh, a large state in central India, retains landmarks from eras throughout Indian history. Begun in the 10th century, its Hindu and Jain temples at Khajuraho are renowned for their carvings of erotic scenes, most prominently Kandariya Mahadeva, a temple with more than 800 sculptures. The eastern Bandhavgarh and Kanha national parks, noted Bengal tiger sanctuaries, offer guided safaris</p>
+
+            </div>
+            <h class="cc">capital:Bhopal</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Maharastra </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Maharashtra_Districts.png" class="image" />
+
+                <p class="bb">Maharashtra is one of India's largest commercial and industrial centres, which has led to its being called the gateway of India. Maharashtra is also famous for its culture and beauty. The ancient cave paintings found at Ajanta and Ellora are UNESCO World Heritage sites and popular tourist destinations.</p>
+            </div>
+            <h class="cc">capital:Mumbai</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Manipur</h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://indiawris.gov.in/wiki/lib/exe/fetch.php?media=350px-mn.png" class="image" />
+
+                <p class="bb">Manipur is a state in northeast India, with the city of Imphal as its capital. It is bounded by the Indian states of Nagaland to the north, Mizoram to the south and Assam to the west. It also borders two regions of Myanmar, Sagaing Region to the east and Chin State to the south. The state covers an area of 22,327 km</p>
+            </div>
+            <h class="cc">capital;Imphal</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Meghalaya</h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://previews.123rf.com/images/awesomeartt/awesomeartt2105/awesomeartt210500114/168900887-meghalaya-map-district-map-of-meghalaya-meghalaya-map-with-all-district-name-in-colour-meghalaya.jpg" class="image" />
+
+
+
+
+
+                <p class="bb">Meghalaya is one of the states in northeast India. Being part of the 7 sisters, Meghalaya is nicknamed the 'Abode of the Gods'. Meghalaya was formed on 21 January 1972. It is famous for its high rainfall, subtropical forests and biodiversity.</p>
+            </div>
+            <h class="cc">capital:shillong</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Mizoram </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://i0.wp.com/edupadhai.com/wp-content/uploads/2021/09/mizoram-map.jpg?fit=800%2C1427&ssl=1" class="image" />
+                <p class="bb">Mizoram is a state in northeast India, with Aizawl as its seat of government and capital city. The name of the state is derived from "Mizo", the self-described name of the native inhabitants, and "Ram", which in the Mizo language means "land." Thus "Mizo-ram" means "land of the Mizos</p>
+            </div>
+            <h class="cc">capital:Aizawl</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Nagaland </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://dlrs.nagaland.gov.in/images/nagaland-state.png" class="image" />
+
+                <p class="bb">Nagaland is a mountainous state in northeast India, bordering Myanmar. It's home to diverse indigenous tribes, with festivals and markets celebrating the different tribes' culture. Its capital city of Kohima suffered heavy fighting in World War II, commemorated by memorials at the Kohima War Cemetery. The Nagaland State Museum exhibits ancient weaponry, a ceremonial drum and other traditional Naga cultural artifacts.</p>
+
+            </div>
+            <h class="cc">capital:kohima</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Odisha</h1>
+            <div class="d-flex flex-row">
+
+                <img src="http://www.orissalinks.com/orissagrowth/wp-content/uploads/image/Screen%20shot%202011-06-24%20at%207_18_36%20AM.png" class="image" />
+                <p class="bb">Odisha (formerly Orissa), an eastern Indian state on the Bay of Bengal, is known for its tribal cultures and its many ancient Hindu temples. The capital, Bhubaneswar, is home to hundreds of temples, notably the intricately-carved Mukteshvara. The Lingaraj Temple complex, dating to the 11th century, is set around sacred Bindusagar Lake. The Odisha State Museum is focused on the area’s history and environment. </p>
+
+            </div>
+            <h class="cc">capital:Bhubaneshwar</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Punjab </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Punjab_district_map_2014.png" class="image" />
+                <p class="bb">Punjab, a state bordering Pakistan, is the heart of India’s Sikh community. The city of Amritsar, founded in the 1570s by Sikh Guru Ram Das, is the site of Harmandir Sahib, the holiest gurdwara (Sikh place of worship). Known in English as the Golden Temple, and surrounded by the Pool of Nectar, it's a major pilgrimage site. Also in Amritsar is Durgiana Temple, a Hindu shrine famed for its engraved silver doors.</p>
+
+            </div>
+            <h class="cc">capital::chandigarh</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Rajesthan </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://i0.wp.com/www.rajasthandirect.com/wp-content/uploads/2012/12/Rajasthan-Districts-Map.jpg?ssl=1" class="image" />
+
+                <p class="bb">Rajasthan is famous for textiles, semi-precious stones, and handicrafts, as well as for its traditional and colorful commonly balladsart. Rajasthani furniture is known for its intricate carvings and bright colours. Block prints, tie and dye prints, Bagaru prints, Sanganer prints and Zari embroidery are famous.</p>
+            </div>
+            <h class="cc">capital:jaipur</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Sikkim </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgKwMk5v3mHz8t3vnb7bjxG8xuRaJZnePUNAjW_V_wbH4oTvLl&s" class="image" />
+
+
+                <p class="bb">Sikkim is a state in northeast India, bordered by Bhutan, Tibet and Nepal. Part of the Himalayas, the area has a dramatic landscape that includes India’s highest mountain, 8,586m Kangchenjunga. Sikkim is also home to glaciers, alpine meadows and thousands of varieties of wildflowers. Steep paths lead to hilltop Buddhist monasteries such as Pemayangtse, which dates to the early 1700s.</p>
+            </div>
+            <h class="cc">capital:Gangtok</h>
+        </div>
+
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Tamilnadu </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOXepedv_syc7JCjzm-I1bwa2lrSO6wE_2BS0RfqVTRcTd6JcY&s" class="image" />
+
+                <p class="bb">Tamil Nadu, a South Indian state, is famed for its Dravidian-style Hindu temples. In Madurai, Meenakshi Amman Temple has high ‘gopuram’ towers ornamented with colourful figures. On Pamban Island, Ramanathaswamy Temple is a pilgrimage site. The town of Kanyakumari, at India’s southernmost tip, is the site of ritual sunrises. Capital Chennai is known for beaches and landmarks including 1644 colonial Fort St. George.</p>
+
+            </div>
+            <h class="cc">capital:chennai</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Telangana </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG3yD9Cy5Sp2dVlUMY1g1K2jDh3pzMJbx-kx2PR3pijE9rawY&s" class="image" />
+
+                <p class="bb">Telangana is a state in southern India. In the capital of Hyderabad, the Charminar is a 16th-century mosque with 4 arches supporting 4 towering minarets. The monument overlooks the city's long-running Laad Bazaar. Once the seat of the Qutb Shahi dynasty, the sprawling Golconda Fort is a former diamond-trading center. In the city of Warangal, the centuries-old Warangal Fort features carved stone towers and gateways.</p>
+
+            </div>
+            <h class="cc">capital:Hyderabad</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Tripura </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjEWDJQRfoqUFrhZUV_PpkeR5STBfEFj7KiiH3vaGnVbliCeU&s" class="image" />
+
+
+                <p class="bb">Tripura is a hilly state in northeast India, bordered on 3 sides by Bangladesh, and home to a diverse mix of tribal cultures and religious groups. In the capital Agartala, the imposing Ujjayanta Palace is set among Mughal gardens, and Gedu Mia’s Mosque has white marble domes and towers. South of the city, Neermahal summer palace sits in the middle of Lake Rudrasagar and blends Hindu and Islamic architectural styles.</p>
+            </div>
+            <h class="cc">capital:Agartala</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Uttarakhand </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBYXmpWYFWO_ZQrV6-EL6hEkU_2y2JCMBiXMI5h5eQFSnvPXgN&s" class="image" />
+
+                <p class="bb">Uttarakhand, a state in northern India crossed by the Himalayas, is known for its Hindu pilgrimage sites. Rishikesh, a major centre for yoga study, was made famous by the Beatles’ 1968 visit. The city hosts the evening Ganga Aarti, a spiritual gathering on the sacred Ganges River. The state's forested Jim Corbett National Park shelters Bengal tigers and other native wildlife</p>
+
+            </div>
+            <h class="cc">capital:Dehradun</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">Uttar pradesh </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdNsm-8eCp2Fh9uGH5tYyMoqLR2jGBpUsdFbnrM9cRlvwjw6o&s" class="image" />
+
+
+
+                <p class="bb">The history of Uttar Pradesh is very much associated with the broad history of India. It dates back to 4000 years. Formerly the area of Uttar Pradesh was occupied by Aryans or the Dasas and their main occupation was agriculture. The Aryans through conquests occupied the adjoining areas.</p>
+            </div>
+            <h class="cc">capital:Lucknow</h>
+        </div>
+        <div class="card-cantainer ">
+
+            <h1 class="aa">West Bengal </h1>
+            <div class="d-flex flex-row">
+
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCRHDMIgXC-5RmiCX9MW0bv_OjK3p_vNUhY9uQL-EB_K4jcO0o&s" class="image" />
+
+
+
+                <p class="bb">West Bengal is a state in eastern India, between the Himalayas and the Bay of Bengal. Its capital, Kolkata (formerly Calcutta), retains architectural and cultural remnants of its past as an East India Company trading post and capital of the British Raj. The city's colonial landmarks include the government buildings around B.B.D. Bagh Square, and the iconic Victoria Memorial, dedicated to Britain's queen.</p>
+            </div>
+            <h class="cc">capital:Kolkata</h>
+        </div>
+</body>
+
+</html>
